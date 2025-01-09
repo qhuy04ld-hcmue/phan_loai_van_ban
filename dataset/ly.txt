@@ -1,0 +1,36 @@
+    Định lý Newton mô tả mối quan hệ giữa lực và chuyển động.
+    Công thức tính vận tốc là quãng đường chia cho thời gian.
+    Dòng điện trong vật dẫn chịu ảnh hưởng của điện trở và điện áp.
+    Dao động điều hòa là chuyển động lặp lại theo thời gian.
+    Khúc xạ ánh sáng xảy ra khi ánh sáng đi từ môi trường này sang môi trường khác có chiết suất khác.
+    Động năng là năng lượng của vật thể khi chuyển động, tỷ lệ với khối lượng và bình phương vận tốc.
+    Định lý bảo toàn năng lượng mô tả sự chuyển hóa giữa động năng và thế năng.
+    Lực ma sát xuất hiện khi một vật di chuyển trên bề mặt.
+    Định lý Work-Energy mô tả mối quan hệ giữa công và thay đổi động năng.
+    Công thức tính lực đàn hồi là F = -k * x.
+    Cơ học chất điểm nghiên cứu chuyển động của vật mà không xét đến kích thước.
+    Tốc độ ánh sáng trong chân không là 299,792,458 m/s.
+    Định lý Bernoulli áp dụng cho dòng chảy của chất lỏng không nén được.
+    Lực hấp dẫn giữa hai vật thể được tính bằng công thức Newton.
+    Công thức tính công cơ học là công = lực * quãng đường * cos(θ).
+    Chuyển động thẳng đều là chuyển động với tốc độ không thay đổi.
+    Chuyển động tròn đều có tốc độ góc không thay đổi.
+    Điện trường là một lực tác dụng lên các hạt mang điện trong không gian.
+    Điện từ trường kết hợp giữa các trường điện và từ trường.
+    Các nguyên lý của nhiệt động lực học mô tả sự chuyển hóa năng lượng trong các hệ thống.
+    Tính chất của chất khí được mô tả bằng định lý lý tưởng của khí lý tưởng.
+    Định lý Gauss dùng để tính diện tích bề mặt của trường điện.
+    Các nguyên lý bảo toàn (như bảo toàn năng lượng, bảo toàn khối lượng) là cơ sở của vật lý.
+    Lực ma sát trượt và ma sát lăn khác nhau ở mức độ tác dụng lực lên các bề mặt tiếp xúc.
+    Chuyển động của sóng cơ học có thể là sóng dọc hoặc sóng ngang.
+    Phản xạ ánh sáng là hiện tượng ánh sáng bị phản chiếu khi gặp bề mặt.
+    Tính chất của ánh sáng như màu sắc và cường độ được nghiên cứu trong quang học.
+    Quy luật Coulomb mô tả lực tương tác giữa các điện tích.
+    Tốc độ âm trong không khí thay đổi theo nhiệt độ của không khí.
+    Chuyển động của các vật thể trong môi trường không có ma sát là chuyển động tự do.
+    Lực đàn hồi trong một lò xo tỷ lệ với độ biến dạng của nó theo định lý Hooke.
+    Từ trường có thể được tạo ra bởi dòng điện và các vật thể từ tính.
+    Các phép biến đổi nhiệt động lực học bao gồm công và nhiệt.
+    Tính chất quang học của lăng kính được nghiên cứu trong cơ học sóng.
+    Nhiệt lượng cần để làm nóng một vật phụ thuộc vào khối lượng và nhiệt dung riêng của vật đó.
+    Phương trình trạng thái lý tưởng mô tả mối quan hệ giữa áp suất, thể tích và nhiệt độ của khí lý tưởng.

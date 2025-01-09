@@ -1,0 +1,159 @@
+Định lý Newton mô tả mối quan hệ giữa lực và chuyển động.
+Công thức tính vận tốc là quãng đường chia cho thời gian.
+Dòng điện trong vật dẫn chịu ảnh hưởng của điện trở và điện áp.
+Dao động điều hòa là chuyển động lặp lại theo thời gian.
+Khúc xạ ánh sáng xảy ra khi ánh sáng đi từ môi trường này sang môi trường khác có chiết suất khác.
+Động năng là năng lượng của vật thể khi chuyển động, tỷ lệ với khối lượng và bình phương vận tốc.
+Định lý bảo toàn năng lượng mô tả sự chuyển hóa giữa động năng và thế năng.
+Lực ma sát xuất hiện khi một vật di chuyển trên bề mặt.
+Định lý Work-Energy mô tả mối quan hệ giữa công và thay đổi động năng.
+Công thức tính lực đàn hồi là F = -k * x.
+Cơ học chất điểm nghiên cứu chuyển động của vật mà không xét đến kích thước.
+Tốc độ ánh sáng trong chân không là 299,792,458 m/s.
+Định lý Bernoulli áp dụng cho dòng chảy của chất lỏng không nén được.
+Lực hấp dẫn giữa hai vật thể được tính bằng công thức Newton.
+Công thức tính công cơ học là công = lực * quãng đường * cos(θ).
+Chuyển động thẳng đều là chuyển động với tốc độ không thay đổi.
+Chuyển động tròn đều có tốc độ góc không thay đổi.
+Điện trường là một lực tác dụng lên các hạt mang điện trong không gian.
+Điện từ trường kết hợp giữa các trường điện và từ trường.
+Các nguyên lý của nhiệt động lực học mô tả sự chuyển hóa năng lượng trong các hệ thống.
+Tính chất của chất khí được mô tả bằng định lý lý tưởng của khí lý tưởng.
+Định lý Gauss dùng để tính diện tích bề mặt của trường điện.
+Các nguyên lý bảo toàn (như bảo toàn năng lượng, bảo toàn khối lượng) là cơ sở của vật lý.
+Lực ma sát trượt và ma sát lăn khác nhau ở mức độ tác dụng lực lên các bề mặt tiếp xúc.
+Chuyển động của sóng cơ học có thể là sóng dọc hoặc sóng ngang.
+Phản xạ ánh sáng là hiện tượng ánh sáng bị phản chiếu khi gặp bề mặt.
+Tính chất của ánh sáng như màu sắc và cường độ được nghiên cứu trong quang học.
+Quy luật Coulomb mô tả lực tương tác giữa các điện tích.
+Tốc độ âm trong không khí thay đổi theo nhiệt độ của không khí.
+Chuyển động của các vật thể trong môi trường không có ma sát là chuyển động tự do.
+Lực đàn hồi trong một lò xo tỷ lệ với độ biến dạng của nó theo định lý Hooke.
+Từ trường có thể được tạo ra bởi dòng điện và các vật thể từ tính.
+Các phép biến đổi nhiệt động lực học bao gồm công và nhiệt.
+Tính chất quang học của lăng kính được nghiên cứu trong cơ học sóng.
+Nhiệt lượng cần để làm nóng một vật phụ thuộc vào khối lượng và nhiệt dung riêng của vật đó.
+Phương trình trạng thái lý tưởng mô tả mối quan hệ giữa áp suất, thể tích và nhiệt độ của khí lý tưởng.
+Lực hút giữa hai vật có khối lượng được tính bằng công thức F = G * (m1 * m2) / r².
+Máy nén khí sử dụng nguyên lý nhiệt động lực học để tăng áp suất khí.
+Lực tương tác giữa các vật thể là một yếu tố quan trọng trong vật lý học.
+Sóng dừng là hiện tượng sóng đứng không truyền đi mà chỉ dao động tại một số điểm cố định.
+Bảo toàn động lượng mô tả rằng động lượng của một hệ cô lập không thay đổi.
+Công thức tính điện dung là C = ε * A / d, với ε là hằng số điện môi, A là diện tích bản cực và d là khoảng cách giữa các bản.
+Chuyển động quay của vật rắn có thể mô tả bằng momen lực.
+Định lý Coulomb mô tả lực giữa hai điện tích.
+Lực tác dụng lên một vật thể trong trường hấp dẫn theo định lý Newton.
+Chuyển động quay đều có tốc độ góc không thay đổi.
+Sự truyền nhiệt từ vật nóng sang vật lạnh được mô tả qua quá trình dẫn nhiệt.
+Lực tác dụng lên một vật chuyển động có thể được tính bằng phương trình F = m * a.
+Năng lượng tối thiểu của một hệ cơ học là năng lượng ở trạng thái cân bằng.
+Lý thuyết điện động lực học mô tả mối quan hệ giữa điện trường và từ trường.
+Mỗi hệ vật lý có thể được mô tả bằng các đại lượng như vị trí, vận tốc, và gia tốc.
+Khối lượng riêng của chất là tỷ lệ giữa khối lượng và thể tích của chất đó.
+Chuyển động của các vật thể trong môi trường có ma sát có thể được mô tả bằng phương trình F = ma - f.
+Công thức tính vận tốc của một vật thể trong chuyển động thẳng đều là v = v0 + at.
+Lực tác dụng lên một vật thể trong một hệ chất lỏng có thể được tính bằng áp suất và diện tích bề mặt.
+Mỗi vật thể đều có một trọng lực tác dụng lên nó, phụ thuộc vào khối lượng và gia tốc trọng trường.
+Chuyển động của sóng điện từ là một ví dụ về sóng ngang, trong đó phương truyền sóng vuông góc với phương dao động.
+Sóng cơ học bao gồm sóng dọc và sóng ngang.
+Cơ học lượng tử nghiên cứu các hiện tượng ở cấp độ rất nhỏ, như các electron và photon.
+Công suất là công thực hiện được trong một đơn vị thời gian.
+Lực hấp dẫn là lực tương tác giữa các vật thể có khối lượng.
+Năng lượng quang học là năng lượng của sóng ánh sáng, liên quan đến tần số và bước sóng của ánh sáng.
+Định lý Faraday mô tả sự cảm ứng điện từ trong mạch điện.
+Định lý Biot-Savart mô tả từ trường tạo ra bởi dòng điện.
+Sóng vô tuyến được sử dụng trong các hệ thống truyền thông như radio và truyền hình.
+Tính chất của từ trường được mô tả bằng các đường sức từ.
+Định lý Ampère liên quan đến mối quan hệ giữa dòng điện và từ trường.
+Lý thuyết điện từ được sử dụng để mô tả tương tác giữa điện và từ trường.
+Điện áp là sự chênh lệch điện thế giữa hai điểm trong mạch điện.
+Chuyển động dao động điều hòa là chuyển động tuần hoàn trong đó vật thể di chuyển qua lại quanh vị trí cân bằng.
+Một điện trường có thể được tạo ra bởi một điện tích điểm.
+Lực Lorentz là lực tác dụng lên một hạt mang điện chuyển động trong từ trường.
+Khối lượng của một vật thể có thể được đo bằng lực tác dụng lên nó trong trường trọng lực.
+Năng lượng được bảo toàn trong mọi quá trình cơ học, ví dụ trong một chuyển động rơi tự do.
+Điện trở của một vật liệu tỉ lệ nghịch với diện tích mặt cắt ngang của nó và tỉ lệ thuận với chiều dài.
+Khi một chất chuyển từ trạng thái lỏng sang trạng thái khí, quá trình này gọi là sự bay hơi.
+Khối lượng riêng của nước là 1000 kg/m³ tại nhiệt độ phòng.
+Nhiệt độ nóng chảy của nhôm là 660°C.
+Định lý Pascal liên quan đến sự truyền áp suất trong chất lỏng.
+Động năng của một vật thể có thể tính bằng công thức Ek = 1/2 mv².
+Áp suất trong một chất lỏng là tỉ số giữa lực tác dụng và diện tích bề mặt tiếp xúc.
+Phương trình nhiệt động lực học mô tả mối quan hệ giữa công, nhiệt và thay đổi nội năng trong một hệ.
+Bộ phận của mắt như giác mạc và thủy tinh thể giúp ánh sáng hội tụ vào võng mạc.
+Bảo toàn năng lượng có nghĩa là năng lượng không thể tự sinh ra hoặc bị mất đi, mà chỉ chuyển từ dạng này sang dạng khác.
+Từ trường có thể được tạo ra bởi các vật thể từ tính hoặc dòng điện.
+Năng lượng tiềm tàng của một vật thể có thể được tính bằng công thức Ep = mgh.
+Các định lý cơ học cơ bản như định lý về bảo toàn động lượng có thể áp dụng trong các va chạm.
+Năng lượng trong một hệ cơ học có thể chuyển hóa giữa các dạng khác nhau như động năng và thế năng.
+Hệ thống động lực học có thể mô tả sự chuyển động của các vật thể trong các điều kiện khác nhau.
+Các sóng có thể truyền trong các môi trường vật chất hoặc trong chân không, tùy thuộc vào loại sóng.
+Sự hấp thụ và phát xạ ánh sáng bởi vật liệu là cơ sở của quang học.
+Các tính chất của chất khí có thể được mô tả bằng phương trình trạng thái khí lý tưởng.
+Công thức tính công cơ học trong vật lý là công = lực * quãng đường.
+Định lý Work-Energy mô tả sự tương quan giữa công thực hiện và sự thay đổi động năng của vật thể.
+Sự thay đổi vận tốc của vật thể có thể tính bằng công thức a = (v - v0) / t.
+Bản chất của ánh sáng có thể được mô tả qua các hiện tượng như khúc xạ và phản xạ.
+Vật lý học nghiên cứu các hiện tượng tự nhiên từ mức độ vĩ mô cho đến vi mô.
+Phương trình dòng chảy trong cơ học chất lỏng có thể được mô tả bằng định lý Bernoulli.
+Điện tích có thể được đo bằng đơn vị Coulomb (C), và các điện tích cùng dấu sẽ đẩy nhau.
+Sự cảm ứng điện từ là quá trình tạo ra điện áp trong mạch điện khi có sự thay đổi từ trường.
+Tốc độ âm trong không khí là 343 m/s ở nhiệt độ 20°C.
+Lý thuyết về sóng âm mô tả cách sóng cơ học truyền trong môi trường.
+Tính chất vật lý của các chất có thể được nghiên cứu thông qua nhiệt dung riêng và nhiệt độ.
+Định lý Boltzmann mô tả sự phân bố năng lượng trong các hệ thống vi mô.
+Điện áp trong mạch điện là sự chênh lệch về điện thế giữa hai điểm trong mạch.
+Chuyển động của các vật thể trong môi trường có ma sát có thể được mô tả bằng phương trình F = ma - f.
+Công thức tính vận tốc của một vật thể trong chuyển động thẳng đều là v = v0 + at.
+Lực tác dụng lên một vật thể trong một hệ chất lỏng có thể được tính bằng áp suất và diện tích bề mặt.
+Mỗi vật thể đều có một trọng lực tác dụng lên nó, phụ thuộc vào khối lượng và gia tốc trọng trường.
+Chuyển động của sóng điện từ là một ví dụ về sóng ngang, trong đó phương truyền sóng vuông góc với phương dao động.
+Sóng cơ học bao gồm sóng dọc và sóng ngang.
+Cơ học lượng tử nghiên cứu các hiện tượng ở cấp độ rất nhỏ, như các electron và photon.
+Công suất là công thực hiện được trong một đơn vị thời gian.
+Lực hấp dẫn là lực tương tác giữa các vật thể có khối lượng.
+Năng lượng quang học là năng lượng của sóng ánh sáng, liên quan đến tần số và bước sóng của ánh sáng.
+Định lý Faraday mô tả sự cảm ứng điện từ trong mạch điện.
+Định lý Biot-Savart mô tả từ trường tạo ra bởi dòng điện.
+Sóng vô tuyến được sử dụng trong các hệ thống truyền thông như radio và truyền hình.
+Tính chất của từ trường được mô tả bằng các đường sức từ.
+Định lý Ampère liên quan đến mối quan hệ giữa dòng điện và từ trường.
+Lý thuyết điện từ được sử dụng để mô tả tương tác giữa điện và từ trường.
+Điện áp là sự chênh lệch điện thế giữa hai điểm trong mạch điện.
+Chuyển động dao động điều hòa là chuyển động tuần hoàn trong đó vật thể di chuyển qua lại quanh vị trí cân bằng.
+Một điện trường có thể được tạo ra bởi một điện tích điểm.
+Lực Lorentz là lực tác dụng lên một hạt mang điện chuyển động trong từ trường.
+Khối lượng của một vật thể có thể được đo bằng lực tác dụng lên nó trong trường trọng lực.
+Năng lượng được bảo toàn trong mọi quá trình cơ học, ví dụ trong một chuyển động rơi tự do.
+Điện trở của một vật liệu tỉ lệ nghịch với diện tích mặt cắt ngang của nó và tỉ lệ thuận với chiều dài.
+Khi một chất chuyển từ trạng thái lỏng sang trạng thái khí, quá trình này gọi là sự bay hơi.
+Khối lượng riêng của nước là 1000 kg/m³ tại nhiệt độ phòng.
+Nhiệt độ nóng chảy của nhôm là 660°C.
+Định lý Pascal liên quan đến sự truyền áp suất trong chất lỏng.
+Động năng của một vật thể có thể tính bằng công thức Ek = 1/2 mv².
+Áp suất trong một chất lỏng là tỉ số giữa lực tác dụng và diện tích bề mặt tiếp xúc.
+Phương trình nhiệt động lực học mô tả mối quan hệ giữa công, nhiệt và thay đổi nội năng trong một hệ.
+Bộ phận của mắt như giác mạc và thủy tinh thể giúp ánh sáng hội tụ vào võng mạc.
+Bảo toàn năng lượng có nghĩa là năng lượng không thể tự sinh ra hoặc bị mất đi, mà chỉ chuyển từ dạng này sang dạng khác.
+Từ trường có thể được tạo ra bởi các vật thể từ tính hoặc dòng điện.
+Năng lượng tiềm tàng của một vật thể có thể được tính bằng công thức Ep = mgh.
+Các định lý cơ học cơ bản như định lý về bảo toàn động lượng có thể áp dụng trong các va chạm.
+Năng lượng trong một hệ cơ học có thể chuyển hóa giữa các dạng khác nhau như động năng và thế năng.
+Hệ thống động lực học có thể mô tả sự chuyển động của các vật thể trong các điều kiện khác nhau.
+Các sóng có thể truyền trong các môi trường vật chất hoặc trong chân không, tùy thuộc vào loại sóng.
+Sự hấp thụ và phát xạ ánh sáng bởi vật liệu là cơ sở của quang học.
+Các tính chất của chất khí có thể được mô tả bằng phương trình trạng thái khí lý tưởng.
+Công thức tính công cơ học trong vật lý là công = lực * quãng đường.
+Định lý Work-Energy mô tả sự tương quan giữa công thực hiện và sự thay đổi động năng của vật thể.
+Sự thay đổi vận tốc của vật thể có thể tính bằng công thức a = (v - v0) / t.
+Bản chất của ánh sáng có thể được mô tả qua các hiện tượng như khúc xạ và phản xạ.
+Vật lý học nghiên cứu các hiện tượng tự nhiên từ mức độ vĩ mô cho đến vi mô.
+Phương trình dòng chảy trong cơ học chất lỏng có thể được mô tả bằng định lý Bernoulli.
+Điện tích có thể được đo bằng đơn vị Coulomb (C), và các điện tích cùng dấu sẽ đẩy nhau.
+Sự cảm ứng điện từ là quá trình tạo ra điện áp trong mạch điện khi có sự thay đổi từ trường.
+Tốc độ âm trong không khí là 343 m/s ở nhiệt độ 20°C.
+Lý thuyết về sóng âm mô tả cách sóng cơ học truyền trong môi trường.
+Tính chất vật lý của các chất có thể được nghiên cứu thông qua nhiệt dung riêng và nhiệt độ.
+Định lý Boltzmann mô tả sự phân bố năng lượng trong các hệ thống vi mô.
+Điện áp trong mạch điện là sự chênh lệch về điện thế giữa hai điểm trong mạch.
+
